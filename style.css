@@ -33,7 +33,7 @@ h3{
     left: 0;
     width: 100%;
     height: 100vh;
-    background: 'parallax-bg.jpg';
+    background: url('parallax-bg.jpg');
     z-index: -1;
     transform: translateY(0);
 }
