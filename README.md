@@ -1,192 +1,181 @@
-<a name="readme-top"></a>
+# 🚀 Tishya Jha's Space Portfolio
 
-# Modern Space Theme Portfolio using Next.js 14 and Three.js
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js" alt="Next.js 14" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
 
-![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Space Theme Portfolio using Next.js 14 and Three.js")
+<div align="center">
+  <img src="https://img.shields.io/badge/AI/ML-Expert-orange?style=for-the-badge" alt="AI/ML Expert" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/RGIPT-Student-green?style=for-the-badge" alt="RGIPT Student" />
+</div>
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://spaceportfolio.netlify.app/ "Netlify Status")
+---
 
-<!-- Table of Contents -->
-<details>
+## 👨‍💻 About Me
 
-<summary>
+**Sophomore in Computer Science and Design Engineering at RGIPT** with expertise in AI/ML, Full Stack Development, and competitive programming. Actively participated in hackathons, coding contests, and events, always striving to push my limits and improve. My problem-solving approach emphasizes logical thinking and algorithmic breakdown, enabling me to tackle complex challenges effectively.
 
-# :notebook_with_decorative_cover: Table of Contents
+### 🎯 Key Highlights
+- **B.Tech CSE Student** at Rajiv Gandhi Institute of Petroleum Technology (RGIPT)
+- **AI/ML Enthusiast** with hands-on experience in sentiment analysis and model interpretability
+- **Hackathon Winner** with multiple achievements in prestigious competitions
+- **Competitive Programmer** on Codeforces and LeetCode
 
-</summary>
+---
 
-- [Folder Structure](#bangbang-folder-structure)
-- [Getting Started](#toolbox-getting-started)
-- [Screenshots](#camera-screenshots)
-- [Tech Stack](#gear-tech-stack)
-- [Stats](#wrench-stats)
-- [Contribute](#raised_hands-contribute)
-- [Acknowledgements](#gem-acknowledgements)
-- [Buy Me a Coffee](#coffee-buy-me-a-coffee)
-- [Follow Me](#rocket-follow-me)
-- [Learn More](#books-learn-more)
-- [Deploy on Vercel](#page_with_curl-deploy-on-vercel)
-- [Give A Star](#star-give-a-star)
-- [Star History](#star2-star-history)
-- [Give A Star](#star-give-a-star)
+## 🏆 Achievements & Recognition
 
-</details>
+### 🥇 Recent Achievements (2024-2025)
+- **Top 250 Finalist Nationwide** | Odoo Hackathon 2025
+- **Contributor @GSSOC 2025** | GirlScript Summer of Code
+- **Round 2 Qualifier** | Flipkart Grid Software Development Track
+- **Winner** | CodeClash Hackathon by Let's Code Community
+- **Rank 1** | DSA Quiz and Coding Competition | Technocrat Institute of Technology Bhopal
+- **Finalist** | IIT Bombay Techfest | Meshmerize Competition
 
-## :bangbang: Folder Structure
+### 🎓 Academic Excellence
+- **JEE Advanced Top 2%** | Qualified as top 2% in JEE Mains and Advanced
+- **CUET 99.98%ile Maths** | 99.98 percentile in Mathematics
+- **NTSE UP 2023 Scholar** | National Talent Search Examination Scholar
 
-Here is the folder structure of this app.
+---
 
+## 🚀 Top Projects
+
+### 1. 🌟 Saaransh MCA E-Consultation Platform
+**AI-powered platform for analyzing stakeholder feedback on MCA bills using sentiment analysis and ML**
+
+- **Tech Stack**: FastAPI, PostgreSQL, BERT, Gemini AI, DeepSeek API, Celery, Redis, Docker
+- **Features**: Real-time feedback processing with OCR and analytics dashboard
+- **Live Demo**: ⭐ [saaransh-mca-e-consutation.vercel.app](https://saaransh-mca-e-consutation.vercel.app/)
+- **GitHub**: [Repository](https://github.com/TishyaJ/Saaransh_MCA_EConsutation_Backend)
+
+### 2. 🏠 RentalPro
+**Modern, full-stack rental platform connecting item owners with renters**
+
+- **Tech Stack**: React, TypeScript, Express.js, PostgreSQL, JWT, Shadcn/UI, Razorpay
+- **Features**: Multi-factor authentication, dynamic product listings, flexible pricing models
+- **Achievement**: Finalist at Odoo Hackathon 2025
+- **GitHub**: [Repository](https://github.com/TishyaJ/Odoo_Hackathon_Round2)
+
+### 3. 🤝 SkillSwap Hub
+**Community-driven platform for peer-to-peer skill swapping**
+
+- **Tech Stack**: React, TypeScript, Express.js, PostgreSQL, JWT Authentication
+- **Features**: Seamless and secure skill exchange platform
+- **Achievement**: Selected for Finals at Odoo Hackathon 2025
+- **GitHub**: [Repository](https://github.com/TishyaJ/SkillSwap-Hub)
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- **Python** | **JavaScript** | **TypeScript** | **C++** | **Java** | **MATLAB** | **Qiskit**
+
+### 🌐 Web Technologies
+- **Frontend**: HTML, CSS, Tailwind CSS, React, Next.js 14, TypeScript
+- **Backend**: FastAPI, Express.js, Node.js
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Tools**: Docker, Git, GitHub
+
+### 🤖 AI/ML & Data Science
+- **Libraries**: TensorFlow, Pandas, NumPy, Scikit-learn, Matplotlib
+- **Frameworks**: BERT, SHAP, LIME, XGBoost
+- **Specializations**: Sentiment Analysis, Model Interpretability, Quantum Computing
+
+---
+
+## 🔗 Professional Profiles
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TishyaJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tishya-j/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/emeraldeyes)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/TISHYA_JHA_04/)
+
+</div>
+
+### 📧 Contact Information
+- **Email**: tishyajha04@gmail.com
+- **Academic Email**: 23CD3049@rgipt.ac.in
+- **Portfolio**: [tishyaj.github.io/PORTFOLIO/](https://tishyaj.github.io/PORTFOLIO/)
+
+---
+
+## 🎨 Portfolio Features
+
+This space-themed portfolio is built with modern web technologies and features:
+
+- ✨ **Interactive Animations** with Framer Motion
+- 🎨 **Space-themed Design** with cosmic backgrounds
+- 📱 **Responsive Layout** for all devices
+- ⚡ **Optimized Performance** with Next.js 14
+- 🌟 **Interactive Project Cards** with live demos
+- 🏆 **Achievements Showcase** with detailed accomplishments
+- 🔗 **Professional Links** and certifications
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js 18+ 
+- npm or yarn
+
+### Installation
 ```bash
-space-portfolio/
-  |- app/
-    |-- favicon.ico
-    |-- globals.css
-    |-- layout.tsx
-    |-- page.tsx
-  |- components/
-    |-- main/
-        |--- encryption.tsx
-        |--- footer.tsx
-        |--- hero.tsx
-        |--- navbar.tsx
-        |--- projects.tsx
-        |--- skills.tsx
-        |--- star-background.tsx
-    |-- sub/
-        |--- hero-content.tsx
-        |--- project-card.tsx
-        |--- skill-data-provider.tsx
-        |--- skill-text.tsx
-  |- config/
-    |-- index.ts
-  |- constants/
-    |-- index.ts
-  |- lib/
-    |-- motion.ts
-    |-- utils.ts
-  |- public/
-    |-- projects/
-    |-- skills/
-    |-- videos/
-    |-- hero-bg.svg
-    |-- lock-main.png
-    |-- lock-top.png
-    |-- logo.png
-  |- .eslintrc.json
-  |- .gitignore
-  |- next.config.js
-  |- package-lock.json
-  |- package.json
-  |- postcss.config.js
-  |- tailwind.config.ts
-  |- tsconfig.json
+# Clone the repository
+git clone https://github.com/TishyaJ/PORTFOLIO.git
+
+# Navigate to the project directory
+cd space-portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
 ```
 
-<br />
+### Build for Production
+```bash
+# Build the application
+npm run build
 
-## :toolbox: Getting Started
+# Start the production server
+npm start
+```
 
-1. Make sure **Git** and **NodeJS** is installed.
+---
 
-2. Clone this repository to your local computer.
+## 📊 Repository Stats
 
-3. Open terminal in root directory. Run `npm install --legacy-peer-deps` or `yarn install --legacy-peer-deps`.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TishyaJ&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TishyaJ&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-4. Now app is fully configured 👍 and you can start using this app using `npm run dev` or `yarn dev`.
+---
 
-## :camera: Screenshots:
+## 🎯 Future Goals
 
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+- 🔬 **Research in Quantum Computing** and AI/ML applications
+- 🌍 **Open Source Contributions** to meaningful projects
+- 🏆 **Competitive Programming** excellence on global platforms
+- 💼 **Industry Experience** in cutting-edge technology companies
 
-![Showcase your skills](/.github/images/img2.png "Showcase your skills")
+---
 
-![Built with Typescript](/.github/images/img3.png "Built with Typescript")
-
-![Showcase your projects](/.github/images/img4.png "Showcase your projects")
-
-## :gear: Tech Stack
-
-[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")](https://netlify.app/ "Netlify") [![Three.js](https://skillicons.dev/icons?i=threejs "Three.js")](https://threejs.org/ "Three.js")
-
-## :wrench: Stats
-
-[![Stats for Space Portfolio](/.github/images/stats.svg "Stats for Space Portfolio")](https://pagespeed.web.dev/analysis/https-spaceportfolio-netlify-app/2efbmg117d "Stats for Space Portfolio")
-
-## :raised_hands: Contribute
-
-You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
-
-## :gem: Acknowledgements
-
-Useful resources and dependencies that are used in Space Portfolio.
-
-- [@heroicons/react](https://www.npmjs.com/package/@heroicons/react): ^2.1.1
-- [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^9.93.0
-- [@react-three/fiber](https://www.npmjs.com/package/@react-three/fiber): ^8.15.13
-- [clsx](https://www.npmjs.com/package/clsx): ^2.1.0
-- [framer-motion](https://www.npmjs.com/package/framer-motion): ^10.17.12
-- [next](https://www.npmjs.com/package/next): 14.0.4
-- [react](https://www.npmjs.com/package/react): ^18
-- [react-dom](https://www.npmjs.com/package/react-dom): ^18
-- [react-icons](https://www.npmjs.com/package/react-icons): ^5.0.1
-- [react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer): ^9.5.3
-- [tailwind-merge](https://www.npmjs.com/package/tailwind-merge): ^2.2.0
-- [three](https://www.npmjs.com/package/three): ^0.160.0
-- [@types/node](https://www.npmjs.com/package/@types/node): ^20
-- [@types/react](https://www.npmjs.com/package/@types/react): ^18
-- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^18
-- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.0.1
-- [eslint](https://www.npmjs.com/package/eslint): ^8
-- [eslint-config-next](https://www.npmjs.com/package/eslint-config-next): 14.0.4
-- [postcss](https://www.npmjs.com/package/postcss): ^8
-- [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.3.0
-- [typescript](https://www.npmjs.com/package/typescript): ^5
-
-## :coffee: Buy Me a Coffee
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
-## :rocket: Follow Me
-
-[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fspace-portfolio "Tweet")
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER. "Subscribe my YouTube Channel")
-
-## :books: Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## :page_with_curl: Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## :star: Give A Star
-
-You can also give this repository a star to show more people and they can use this repository.
-
-## :star2: Star History
-
-<a href="https://star-history.com/#sanidhyy/space-portfolio&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline" />
-</picture>
-</a>
-
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="center">
+  <h3>🌟 "Building the future, one line of code at a time" 🌟</h3>
+  
+  <p>Made with ❤️ by <strong>Tishya Jha</strong></p>
+  
+  <img src="https://img.shields.io/badge/Last%20Updated-January%202025-blue?style=for-the-badge" alt="Last Updated" />
+</div>
