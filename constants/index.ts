@@ -9,26 +9,14 @@ import {
 
 export const SKILL_DATA = [
   {
-    skill_name: "HTML",
-    image: "html.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "CSS",
-    image: "css.png",
-    width: 80,
-    height: 80,
-  },
-  {
     skill_name: "JavaScript",
     image: "js.png",
     width: 65,
     height: 65,
   },
   {
-    skill_name: "Tailwind CSS",
-    image: "tailwind.png",
+    skill_name: "TypeScript",
+    image: "ts.png",
     width: 80,
     height: 80,
   },
@@ -39,46 +27,22 @@ export const SKILL_DATA = [
     height: 80,
   },
   {
-    skill_name: "Redux",
-    image: "redux.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "React Query",
-    image: "reactquery.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "TypeScript",
-    image: "ts.png",
-    width: 80,
-    height: 80,
-  },
-  {
     skill_name: "Next.js 14",
     image: "next.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "Framer Motion",
-    image: "framer.png",
+    skill_name: "Express.js",
+    image: "express.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "Stripe",
-    image: "stripe.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Node.js",
-    image: "node.png",
-    width: 80,
-    height: 80,
+    skill_name: "PostgreSQL",
+    image: "postgresql.png",
+    width: 70,
+    height: 70,
   },
   {
     skill_name: "MongoDB",
@@ -86,23 +50,29 @@ export const SKILL_DATA = [
     width: 40,
     height: 40,
   },
+  {
+    skill_name: "Docker",
+    image: "docker.png",
+    width: 70,
+    height: 70,
+  },
 ] as const;
 
 export const SOCIALS = [
   {
-    name: "Instagram",
-    icon: RxInstagramLogo,
-    link: "https://instagram.com",
+    name: "GitHub",
+    icon: RxGithubLogo,
+    link: "https://github.com/TishyaJ",
   },
   {
-    name: "Facebook",
-    icon: FaFacebook,
-    link: "https://facebook.com",
+    name: "LinkedIn",
+    icon: RxLinkedinLogo,
+    link: "https://www.linkedin.com/in/tishya-j/",
   },
   {
-    name: "Twitter",
+    name: "Portfolio",
     icon: RxTwitterLogo,
-    link: "https://twitter.com",
+    link: "https://tishyaj.github.io/PORTFOLIO/",
   },
 ] as const;
 
@@ -132,32 +102,8 @@ export const FRONTEND_SKILL = [
     height: 80,
   },
   {
-    skill_name: "Material UI",
-    image: "mui.png",
-    width: 80,
-    height: 80,
-  },
-  {
     skill_name: "React",
     image: "react.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Redux",
-    image: "redux.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "React Query",
-    image: "reactquery.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "TypeScript",
-    image: "ts.png",
     width: 80,
     height: 80,
   },
@@ -167,12 +113,18 @@ export const FRONTEND_SKILL = [
     width: 80,
     height: 80,
   },
+  {
+    skill_name: "TypeScript",
+    image: "ts.png",
+    width: 80,
+    height: 80,
+  },
 ] as const;
 
 export const BACKEND_SKILL = [
   {
-    skill_name: "Node.js",
-    image: "node.png",
+    skill_name: "Python",
+    image: "python.png",
     width: 80,
     height: 80,
   },
@@ -181,18 +133,6 @@ export const BACKEND_SKILL = [
     image: "express.png",
     width: 80,
     height: 80,
-  },
-  {
-    skill_name: "MongoDB",
-    image: "mongodb.png",
-    width: 40,
-    height: 40,
-  },
-  {
-    skill_name: "Firebase",
-    image: "firebase.png",
-    width: 55,
-    height: 55,
   },
   {
     skill_name: "PostgreSQL",
@@ -207,16 +147,16 @@ export const BACKEND_SKILL = [
     height: 70,
   },
   {
-    skill_name: "Prisma",
-    image: "prisma.png",
-    width: 70,
-    height: 70,
+    skill_name: "MongoDB",
+    image: "mongodb.png",
+    width: 40,
+    height: 40,
   },
   {
-    skill_name: "Graphql",
-    image: "graphql.png",
-    width: 80,
-    height: 80,
+    skill_name: "Docker",
+    image: "docker.png",
+    width: 70,
+    height: 70,
   },
 ] as const;
 
@@ -239,7 +179,6 @@ export const FULLSTACK_SKILL = [
     width: 70,
     height: 70,
   },
-
   {
     skill_name: "Figma",
     image: "figma.png",
@@ -259,86 +198,57 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Modern Next.js 14 Portfolio",
+    title: "Saaransh MCA E-Consultation Platform",
     description:
-      'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
+      "🚀 AI-powered platform for analyzing stakeholder feedback on MCA bills using sentiment analysis and ML. Built with FastAPI, PostgreSQL, BERT, and Gemini AI. Features real-time feedback processing with OCR and analytics dashboard.",
     image: "/projects/project-1.png",
-    link: "https://example.com",
+    link: "https://github.com/TishyaJ/Saaransh_MCA_EConsutation_Backend",
+    demoLink: "https://saaransh-mca-e-consutation.vercel.app/",
   },
   {
-    title: "Interactive Cards Portfolio",
+    title: "RentalPro",
     description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
+      "A modern, full-stack rental platform connecting item owners with renters through a seamless booking experience. Built with React, TypeScript, Express.js, PostgreSQL, and features multi-factor authentication, dynamic product listings, and flexible pricing models. Finalist at Odoo Hackathon 2025.",
     image: "/projects/project-2.png",
-    link: "https://example.com",
+    link: "https://github.com/TishyaJ/Odoo_Hackathon_Round2",
   },
   {
-    title: "Space Themed Website",
+    title: "SkillSwap Hub",
     description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
-    image: "/projects/project-3.png",
-    link: "https://example.com",
+      "A minimalist and elegant platform where users can exchange skills and knowledge with each other. Community-driven platform for seamless and secure peer-to-peer skill swapping. Built with React, TypeScript, Express.js, and PostgreSQL. Selected for Finals at Odoo Hackathon 2025.",
+    image: "/projects/project-3.jpeg",
+    link: "https://github.com/TishyaJ/SkillSwap-Hub",
   },
 ] as const;
 
 export const FOOTER_DATA = [
   {
-    title: "Community",
+    title: "Connect",
     data: [
-      {
-        name: "YouTube",
-        icon: FaYoutube,
-        link: "https://youtube.com",
-      },
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com",
+        link: "https://github.com/TishyaJ",
       },
       {
-        name: "Discord",
-        icon: RxDiscordLogo,
-        link: "https://discord.com",
-      },
-    ],
-  },
-  {
-    title: "Social Media",
-    data: [
-      {
-        name: "Instagram",
-        icon: RxInstagramLogo,
-        link: "https://instagram.com",
-      },
-      {
-        name: "Twitter",
-        icon: RxTwitterLogo,
-        link: "https://twitter.com",
-      },
-      {
-        name: "Linkedin",
+        name: "LinkedIn",
         icon: RxLinkedinLogo,
-        link: "https://linkedin.com",
+        link: "https://www.linkedin.com/in/tishya-j/",
       },
     ],
   },
   {
-    title: "About",
+    title: "Contact",
     data: [
       {
-        name: "Become Sponsor",
+        name: "tishyajha04@gmail.com",
         icon: null,
-        link: "https://youtube.com",
+        link: "mailto:tishyajha04@gmail.com",
       },
       {
-        name: "Learning about me",
+        name: "23CD3049@rgipt.ac.in",
         icon: null,
-        link: "https://example.com",
-      },
-      {
-        name: "Contact Me",
-        icon: null,
-        link: "mailto:contact@example.com",
+        link: "mailto:23CD3049@rgipt.ac.in",
       },
     ],
   },
@@ -357,8 +267,16 @@ export const NAV_LINKS = [
     title: "Projects",
     link: "#projects",
   },
+  {
+    title: "Achievements",
+    link: "#achievements",
+  },
+  {
+    title: "Certifications",
+    link: "#special-links",
+  },
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/sanidhyy/space-portfolio",
+  sourceCode: "https://github.com/TishyaJ/space-portfolio",
 };
