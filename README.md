@@ -20,6 +20,7 @@
 **Sophomore in Computer Science and Design Engineering at RGIPT** with expertise in AI/ML, Full Stack Development, and competitive programming. Actively participated in hackathons, coding contests, and events, always striving to push my limits and improve. My problem-solving approach emphasizes logical thinking and algorithmic breakdown, enabling me to tackle complex challenges effectively.
 
 ### 🎯 Key Highlights
+
 - **B.Tech CSE Student** at Rajiv Gandhi Institute of Petroleum Technology (RGIPT)
 - **AI/ML Enthusiast** with hands-on experience in sentiment analysis and model interpretability
 - **Hackathon Winner** with multiple achievements in prestigious competitions
@@ -30,6 +31,7 @@
 ## 🏆 Achievements & Recognition
 
 ### 🥇 Recent Achievements (2024-2025)
+
 - **Top 250 Finalist Nationwide** | Odoo Hackathon 2025
 - **Contributor @GSSOC 2025** | GirlScript Summer of Code
 - **Round 2 Qualifier** | Flipkart Grid Software Development Track
@@ -38,6 +40,7 @@
 - **Finalist** | IIT Bombay Techfest | Meshmerize Competition
 
 ### 🎓 Academic Excellence
+
 - **JEE Advanced Top 2%** | Qualified as top 2% in JEE Mains and Advanced
 - **CUET 99.98%ile Maths** | 99.98 percentile in Mathematics
 - **NTSE UP 2023 Scholar** | National Talent Search Examination Scholar
@@ -47,6 +50,7 @@
 ## 🚀 Top Projects
 
 ### 1. 🌟 Saaransh MCA E-Consultation Platform
+
 **AI-powered platform for analyzing stakeholder feedback on MCA bills using sentiment analysis and ML**
 
 - **Tech Stack**: FastAPI, PostgreSQL, BERT, Gemini AI, DeepSeek API, Celery, Redis, Docker
@@ -55,6 +59,7 @@
 - **GitHub**: [Repository](https://github.com/TishyaJ/Saaransh_MCA_EConsutation_Backend)
 
 ### 2. 🏠 RentalPro
+
 **Modern, full-stack rental platform connecting item owners with renters**
 
 - **Tech Stack**: React, TypeScript, Express.js, PostgreSQL, JWT, Shadcn/UI, Razorpay
@@ -63,6 +68,7 @@
 - **GitHub**: [Repository](https://github.com/TishyaJ/Odoo_Hackathon_Round2)
 
 ### 3. 🤝 SkillSwap Hub
+
 **Community-driven platform for peer-to-peer skill swapping**
 
 - **Tech Stack**: React, TypeScript, Express.js, PostgreSQL, JWT Authentication
@@ -75,15 +81,18 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
+
 - **Python** | **JavaScript** | **TypeScript** | **C++** | **Java** | **MATLAB** | **Qiskit**
 
 ### 🌐 Web Technologies
+
 - **Frontend**: HTML, CSS, Tailwind CSS, React, Next.js 14, TypeScript
 - **Backend**: FastAPI, Express.js, Node.js
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Tools**: Docker, Git, GitHub
 
 ### 🤖 AI/ML & Data Science
+
 - **Libraries**: TensorFlow, Pandas, NumPy, Scikit-learn, Matplotlib
 - **Frameworks**: BERT, SHAP, LIME, XGBoost
 - **Specializations**: Sentiment Analysis, Model Interpretability, Quantum Computing
@@ -102,9 +111,11 @@
 </div>
 
 ### 📧 Contact Information
+
 - **Email**: tishyajha04@gmail.com
 - **Academic Email**: 23CD3049@rgipt.ac.in
 - **Portfolio**: [tishyaj.github.io/PORTFOLIO/](https://tishyaj.github.io/PORTFOLIO/)
+- **Live Demo**: [space-portfolio-rk5vynjv9-tishya-jhas-projects.vercel.app](https://space-portfolio-rk5vynjv9-tishya-jhas-projects.vercel.app)
 
 ---
 
@@ -125,10 +136,12 @@ This space-themed portfolio is built with modern web technologies and features:
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js 18+ 
+
+- Node.js 18+
 - npm or yarn
 
 ### Installation
+
 ```bash
 # Clone the repository
 git clone https://github.com/TishyaJ/PORTFOLIO.git
@@ -144,6 +157,7 @@ npm run dev
 ```
 
 ### Build for Production
+
 ```bash
 # Build the application
 npm run build
